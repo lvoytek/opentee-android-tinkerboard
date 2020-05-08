@@ -32,9 +32,9 @@ This repository consists of the following directories:
 
 ### Supported Android Versions
 
-**Supported Android version: 5.0 - 5.1.1**
+**Supported Android version: 7.1.1**
 
-The current implementation of the API uses Open-TEE in place of a hardware TEE. Open-TEE does not yet support Android versions above 5.1.1. This project has been tested on Android 5.0 & 5.1.1
+The current implementation of the API uses Open-TEE in place of a hardware TEE. Open-TEE does not yet support Android versions above 7.1. This project has been tested on Android 7.1 on Tinker Board S
 
 
 ### Prerequisites
@@ -49,7 +49,7 @@ The current implementation of the API uses Open-TEE in place of a hardware TEE. 
 ### Obtain the Source Code
 Clone this repository:
 ```shell
-	$ git clone --recursive https://github.com/Open-TEE/opentee-android.git
+	$ git clone --recursive https://github.com/lvoytek/opentee-android-tinkerboard.git
 ```
 
 
