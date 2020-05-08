@@ -5,7 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/bundletest/bundletest.iml" filepath="$PROJECT_DIR$/bundletest/bundletest.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaapitest/javaapitest.iml" filepath="$PROJECT_DIR$/javaapitest/javaapitest.iml" />
       <module fileurl="file://$PROJECT_DIR$/opentee/opentee.iml" filepath="$PROJECT_DIR$/opentee/opentee.iml" />
-      <module fileurl="file://$PROJECT_DIR$/opentee-android.iml" filepath="$PROJECT_DIR$/opentee-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentee-android-tinkerboard.iml" filepath="$PROJECT_DIR$/opentee-android-tinkerboard.iml" group="opentee-android-tinkerboard" />
+      <module fileurl="file://$PROJECT_DIR$/bundletest/opentee-android-tinkerboard-bundletest.iml" filepath="$PROJECT_DIR$/bundletest/opentee-android-tinkerboard-bundletest.iml" group="opentee-android-tinkerboard/bundletest" />
+      <module fileurl="file://$PROJECT_DIR$/javaapitest/opentee-android-tinkerboard-javaapitest.iml" filepath="$PROJECT_DIR$/javaapitest/opentee-android-tinkerboard-javaapitest.iml" group="opentee-android-tinkerboard/javaapitest" />
+      <module fileurl="file://$PROJECT_DIR$/opentee/opentee-android-tinkerboard-opentee.iml" filepath="$PROJECT_DIR$/opentee/opentee-android-tinkerboard-opentee.iml" group="opentee-android-tinkerboard/opentee" />
+      <module fileurl="file://$PROJECT_DIR$/otclient/opentee-android-tinkerboard-otclient.iml" filepath="$PROJECT_DIR$/otclient/opentee-android-tinkerboard-otclient.iml" group="opentee-android-tinkerboard/otclient" />
+      <module fileurl="file://$PROJECT_DIR$/otservice/opentee-android-tinkerboard-otservice.iml" filepath="$PROJECT_DIR$/otservice/opentee-android-tinkerboard-otservice.iml" group="opentee-android-tinkerboard/otservice" />
       <module fileurl="file://$PROJECT_DIR$/otclient/otclient.iml" filepath="$PROJECT_DIR$/otclient/otclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/otservice/otservice.iml" filepath="$PROJECT_DIR$/otservice/otservice.iml" />
     </modules>
